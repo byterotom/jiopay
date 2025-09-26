@@ -1,0 +1,23 @@
+{
+  "config": {
+    "data_dir": "data/jiopay",
+    "output_dir": "data/indexes",
+    "chunking_strategy": "semantic",
+    "embedding_model": "all-MiniLM-L6-v2",
+    "index_type": "flat",
+    "chunk_size": 512,
+    "chunk_overlap": 64,
+    "max_chunks_per_doc": null,
+    "batch_size": 32,
+    "index_name": null
+  },
+  "stats": {
+    "documents_loaded": 13,
+    "documents_processed": 11,
+    "chunks_generated": 55,
+    "embeddings_created": 55,
+    "build_time": 0.008122920989990234,
+    "errors": []
+  },
+  "timestamp": 1758361808.4324481
+}

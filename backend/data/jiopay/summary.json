@@ -1,0 +1,60 @@
+{
+  "total_pages": 11,
+  "pages": [
+    {
+      "url": "https://jiopay.com/",
+      "method": "selenium",
+      "text_length": 59482
+    },
+    {
+      "url": "https://jiopay.com/business",
+      "method": "selenium",
+      "text_length": 59482
+    },
+    {
+      "url": "https://jiopay.com/consumer",
+      "method": "selenium",
+      "text_length": 59482
+    },
+    {
+      "url": "https://jiopay.com/payment-gateway",
+      "method": "selenium",
+      "text_length": 59482
+    },
+    {
+      "url": "https://jiopay.com/payment-links",
+      "method": "selenium",
+      "text_length": 59482
+    },
+    {
+      "url": "https://jiopay.com/upi",
+      "method": "selenium",
+      "text_length": 59482
+    },
+    {
+      "url": "https://jiopay.com/help",
+      "method": "selenium",
+      "text_length": 59482
+    },
+    {
+      "url": "https://jiopay.com/about-us",
+      "method": "selenium",
+      "text_length": 59482
+    },
+    {
+      "url": "https://jiopay.com/contact-us",
+      "method": "selenium",
+      "text_length": 59482
+    },
+    {
+      "url": "https://jiopay.com/terms-and-conditions",
+      "method": "selenium",
+      "text_length": 59482
+    },
+    {
+      "url": "https://jiopay.com/privacy-policy",
+      "method": "selenium",
+      "text_length": 59482
+    }
+  ]
+}

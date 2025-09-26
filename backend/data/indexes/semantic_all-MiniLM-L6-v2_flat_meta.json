@@ -1,0 +1,552 @@
+[
+  {
+    "url": "https://jiopay.com/",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 2,
+    "chunk_index": 0,
+    "chunking_strategy": "semantic",
+    "chunk_size": 1438,
+    "id": "42098deb45178ddf"
+  },
+  {
+    "url": "https://jiopay.com/",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 2,
+    "chunk_index": 1,
+    "chunking_strategy": "semantic",
+    "chunk_size": 2807,
+    "id": "facddc467a9c7c2d"
+  },
+  {
+    "url": "https://jiopay.com/",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 2,
+    "chunk_index": 2,
+    "chunking_strategy": "semantic",
+    "chunk_size": 2715,
+    "id": "72e3028f5ea2916c"
+  },
+  {
+    "url": "https://jiopay.com/",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 2,
+    "chunk_index": 3,
+    "chunking_strategy": "semantic",
+    "chunk_size": 1929,
+    "id": "525c19bc1ece3e3d"
+  },
+  {
+    "url": "https://jiopay.com/",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 2,
+    "chunk_index": 4,
+    "chunking_strategy": "semantic",
+    "chunk_size": 7083,
+    "id": "178024e9ff9d2ff0"
+  },
+  {
+    "url": "https://jiopay.com/about-us",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 3,
+    "chunk_index": 0,
+    "chunking_strategy": "semantic",
+    "chunk_size": 1438,
+    "id": "42098deb45178ddf"
+  },
+  {
+    "url": "https://jiopay.com/about-us",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 3,
+    "chunk_index": 1,
+    "chunking_strategy": "semantic",
+    "chunk_size": 2807,
+    "id": "facddc467a9c7c2d"
+  },
+  {
+    "url": "https://jiopay.com/about-us",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 3,
+    "chunk_index": 2,
+    "chunking_strategy": "semantic",
+    "chunk_size": 2715,
+    "id": "72e3028f5ea2916c"
+  },
+  {
+    "url": "https://jiopay.com/about-us",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 3,
+    "chunk_index": 3,
+    "chunking_strategy": "semantic",
+    "chunk_size": 1929,
+    "id": "525c19bc1ece3e3d"
+  },
+  {
+    "url": "https://jiopay.com/about-us",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 3,
+    "chunk_index": 4,
+    "chunking_strategy": "semantic",
+    "chunk_size": 7083,
+    "id": "178024e9ff9d2ff0"
+  },
+  {
+    "url": "https://jiopay.com/business",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 4,
+    "chunk_index": 0,
+    "chunking_strategy": "semantic",
+    "chunk_size": 1438,
+    "id": "42098deb45178ddf"
+  },
+  {
+    "url": "https://jiopay.com/business",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 4,
+    "chunk_index": 1,
+    "chunking_strategy": "semantic",
+    "chunk_size": 2807,
+    "id": "facddc467a9c7c2d"
+  },
+  {
+    "url": "https://jiopay.com/business",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 4,
+    "chunk_index": 2,
+    "chunking_strategy": "semantic",
+    "chunk_size": 2715,
+    "id": "72e3028f5ea2916c"
+  },
+  {
+    "url": "https://jiopay.com/business",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 4,
+    "chunk_index": 3,
+    "chunking_strategy": "semantic",
+    "chunk_size": 1929,
+    "id": "525c19bc1ece3e3d"
+  },
+  {
+    "url": "https://jiopay.com/business",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 4,
+    "chunk_index": 4,
+    "chunking_strategy": "semantic",
+    "chunk_size": 7083,
+    "id": "178024e9ff9d2ff0"
+  },
+  {
+    "url": "https://jiopay.com/consumer",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 5,
+    "chunk_index": 0,
+    "chunking_strategy": "semantic",
+    "chunk_size": 1438,
+    "id": "42098deb45178ddf"
+  },
+  {
+    "url": "https://jiopay.com/consumer",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 5,
+    "chunk_index": 1,
+    "chunking_strategy": "semantic",
+    "chunk_size": 2807,
+    "id": "facddc467a9c7c2d"
+  },
+  {
+    "url": "https://jiopay.com/consumer",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 5,
+    "chunk_index": 2,
+    "chunking_strategy": "semantic",
+    "chunk_size": 2715,
+    "id": "72e3028f5ea2916c"
+  },
+  {
+    "url": "https://jiopay.com/consumer",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 5,
+    "chunk_index": 3,
+    "chunking_strategy": "semantic",
+    "chunk_size": 1929,
+    "id": "525c19bc1ece3e3d"
+  },
+  {
+    "url": "https://jiopay.com/consumer",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 5,
+    "chunk_index": 4,
+    "chunking_strategy": "semantic",
+    "chunk_size": 7083,
+    "id": "178024e9ff9d2ff0"
+  },
+  {
+    "url": "https://jiopay.com/contact-us",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 6,
+    "chunk_index": 0,
+    "chunking_strategy": "semantic",
+    "chunk_size": 1438,
+    "id": "42098deb45178ddf"
+  },
+  {
+    "url": "https://jiopay.com/contact-us",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 6,
+    "chunk_index": 1,
+    "chunking_strategy": "semantic",
+    "chunk_size": 2807,
+    "id": "facddc467a9c7c2d"
+  },
+  {
+    "url": "https://jiopay.com/contact-us",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 6,
+    "chunk_index": 2,
+    "chunking_strategy": "semantic",
+    "chunk_size": 2715,
+    "id": "72e3028f5ea2916c"
+  },
+  {
+    "url": "https://jiopay.com/contact-us",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 6,
+    "chunk_index": 3,
+    "chunking_strategy": "semantic",
+    "chunk_size": 1929,
+    "id": "525c19bc1ece3e3d"
+  },
+  {
+    "url": "https://jiopay.com/contact-us",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 6,
+    "chunk_index": 4,
+    "chunking_strategy": "semantic",
+    "chunk_size": 7083,
+    "id": "178024e9ff9d2ff0"
+  },
+  {
+    "url": "https://jiopay.com/help",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 7,
+    "chunk_index": 0,
+    "chunking_strategy": "semantic",
+    "chunk_size": 1438,
+    "id": "42098deb45178ddf"
+  },
+  {
+    "url": "https://jiopay.com/help",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 7,
+    "chunk_index": 1,
+    "chunking_strategy": "semantic",
+    "chunk_size": 2807,
+    "id": "facddc467a9c7c2d"
+  },
+  {
+    "url": "https://jiopay.com/help",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 7,
+    "chunk_index": 2,
+    "chunking_strategy": "semantic",
+    "chunk_size": 2715,
+    "id": "72e3028f5ea2916c"
+  },
+  {
+    "url": "https://jiopay.com/help",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 7,
+    "chunk_index": 3,
+    "chunking_strategy": "semantic",
+    "chunk_size": 1929,
+    "id": "525c19bc1ece3e3d"
+  },
+  {
+    "url": "https://jiopay.com/help",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 7,
+    "chunk_index": 4,
+    "chunking_strategy": "semantic",
+    "chunk_size": 7083,
+    "id": "178024e9ff9d2ff0"
+  },
+  {
+    "url": "https://jiopay.com/payment-gateway",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 8,
+    "chunk_index": 0,
+    "chunking_strategy": "semantic",
+    "chunk_size": 1438,
+    "id": "42098deb45178ddf"
+  },
+  {
+    "url": "https://jiopay.com/payment-gateway",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 8,
+    "chunk_index": 1,
+    "chunking_strategy": "semantic",
+    "chunk_size": 2807,
+    "id": "facddc467a9c7c2d"
+  },
+  {
+    "url": "https://jiopay.com/payment-gateway",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 8,
+    "chunk_index": 2,
+    "chunking_strategy": "semantic",
+    "chunk_size": 2715,
+    "id": "72e3028f5ea2916c"
+  },
+  {
+    "url": "https://jiopay.com/payment-gateway",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 8,
+    "chunk_index": 3,
+    "chunking_strategy": "semantic",
+    "chunk_size": 1929,
+    "id": "525c19bc1ece3e3d"
+  },
+  {
+    "url": "https://jiopay.com/payment-gateway",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 8,
+    "chunk_index": 4,
+    "chunking_strategy": "semantic",
+    "chunk_size": 7083,
+    "id": "178024e9ff9d2ff0"
+  },
+  {
+    "url": "https://jiopay.com/payment-links",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 9,
+    "chunk_index": 0,
+    "chunking_strategy": "semantic",
+    "chunk_size": 1438,
+    "id": "42098deb45178ddf"
+  },
+  {
+    "url": "https://jiopay.com/payment-links",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 9,
+    "chunk_index": 1,
+    "chunking_strategy": "semantic",
+    "chunk_size": 2807,
+    "id": "facddc467a9c7c2d"
+  },
+  {
+    "url": "https://jiopay.com/payment-links",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 9,
+    "chunk_index": 2,
+    "chunking_strategy": "semantic",
+    "chunk_size": 2715,
+    "id": "72e3028f5ea2916c"
+  },
+  {
+    "url": "https://jiopay.com/payment-links",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 9,
+    "chunk_index": 3,
+    "chunking_strategy": "semantic",
+    "chunk_size": 1929,
+    "id": "525c19bc1ece3e3d"
+  },
+  {
+    "url": "https://jiopay.com/payment-links",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 9,
+    "chunk_index": 4,
+    "chunking_strategy": "semantic",
+    "chunk_size": 7083,
+    "id": "178024e9ff9d2ff0"
+  },
+  {
+    "url": "https://jiopay.com/privacy-policy",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 10,
+    "chunk_index": 0,
+    "chunking_strategy": "semantic",
+    "chunk_size": 1438,
+    "id": "42098deb45178ddf"
+  },
+  {
+    "url": "https://jiopay.com/privacy-policy",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 10,
+    "chunk_index": 1,
+    "chunking_strategy": "semantic",
+    "chunk_size": 2807,
+    "id": "facddc467a9c7c2d"
+  },
+  {
+    "url": "https://jiopay.com/privacy-policy",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 10,
+    "chunk_index": 2,
+    "chunking_strategy": "semantic",
+    "chunk_size": 2715,
+    "id": "72e3028f5ea2916c"
+  },
+  {
+    "url": "https://jiopay.com/privacy-policy",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 10,
+    "chunk_index": 3,
+    "chunking_strategy": "semantic",
+    "chunk_size": 1929,
+    "id": "525c19bc1ece3e3d"
+  },
+  {
+    "url": "https://jiopay.com/privacy-policy",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 10,
+    "chunk_index": 4,
+    "chunking_strategy": "semantic",
+    "chunk_size": 7083,
+    "id": "178024e9ff9d2ff0"
+  },
+  {
+    "url": "https://jiopay.com/terms-and-conditions",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 11,
+    "chunk_index": 0,
+    "chunking_strategy": "semantic",
+    "chunk_size": 1438,
+    "id": "42098deb45178ddf"
+  },
+  {
+    "url": "https://jiopay.com/terms-and-conditions",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 11,
+    "chunk_index": 1,
+    "chunking_strategy": "semantic",
+    "chunk_size": 2807,
+    "id": "facddc467a9c7c2d"
+  },
+  {
+    "url": "https://jiopay.com/terms-and-conditions",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 11,
+    "chunk_index": 2,
+    "chunking_strategy": "semantic",
+    "chunk_size": 2715,
+    "id": "72e3028f5ea2916c"
+  },
+  {
+    "url": "https://jiopay.com/terms-and-conditions",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 11,
+    "chunk_index": 3,
+    "chunking_strategy": "semantic",
+    "chunk_size": 1929,
+    "id": "525c19bc1ece3e3d"
+  },
+  {
+    "url": "https://jiopay.com/terms-and-conditions",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 11,
+    "chunk_index": 4,
+    "chunking_strategy": "semantic",
+    "chunk_size": 7083,
+    "id": "178024e9ff9d2ff0"
+  },
+  {
+    "url": "https://jiopay.com/upi",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 12,
+    "chunk_index": 0,
+    "chunking_strategy": "semantic",
+    "chunk_size": 1438,
+    "id": "42098deb45178ddf"
+  },
+  {
+    "url": "https://jiopay.com/upi",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 12,
+    "chunk_index": 1,
+    "chunking_strategy": "semantic",
+    "chunk_size": 2807,
+    "id": "facddc467a9c7c2d"
+  },
+  {
+    "url": "https://jiopay.com/upi",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 12,
+    "chunk_index": 2,
+    "chunking_strategy": "semantic",
+    "chunk_size": 2715,
+    "id": "72e3028f5ea2916c"
+  },
+  {
+    "url": "https://jiopay.com/upi",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 12,
+    "chunk_index": 3,
+    "chunking_strategy": "semantic",
+    "chunk_size": 1929,
+    "id": "525c19bc1ece3e3d"
+  },
+  {
+    "url": "https://jiopay.com/upi",
+    "title": "JioPay - Business",
+    "source_file": "",
+    "doc_index": 12,
+    "chunk_index": 4,
+    "chunking_strategy": "semantic",
+    "chunk_size": 7083,
+    "id": "178024e9ff9d2ff0"
+  }
+]

@@ -1,0 +1,33 @@
+# Core FastAPI dependencies
+fastapi
+uvicorn[standard]
+gunicorn
+python-multipart
+pydantic
+
+# Web scraping
+requests
+beautifulsoup4
+trafilatura
+requests-html
+
+# JavaScript rendering tools (choose one or both)
+selenium
+playwright  # Alternative to Selenium
+
+# ML/AI dependencies
+sentence-transformers
+transformers
+torch
+faiss-cpu
+
+# Utilities
+rank-bm25
+rapidfuzz
+pytest
+tqdm
+
+# Additional useful scraping tools
+lxml  # Faster XML/HTML parsing
+fake-useragent  # Rotate user agents
+retrying  # Retry failed requests
